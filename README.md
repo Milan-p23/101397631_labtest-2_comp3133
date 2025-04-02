@@ -1,5 +1,19 @@
 # 🚀 Space Explorer – SpaceX Launch Mission Viewer
 
+# Images
+# Home Page(landing Page)
+ ![alt text](image.png)
+
+# Using Filter
+ ![alt text](image-1.png)
+
+
+
+# When click on any card (more detailed info)
+ ![alt text](image-2.png)
+
+
+
 An **Angular Standalone Web App** to browse and filter **SpaceX Launch Missions** using SpaceX Public REST API.  
 Developed by **Milan Patel (101397631)** as part of **COMP 3133 Lab Test 2**.  
 Fully deployed on **Vercel** from a single repository.
